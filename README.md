@@ -1,1 +1,1 @@
-# desafios-fundamentos-aritmeticos-em-javascript
+# Fundamentos Aritméticos em JavaScript
